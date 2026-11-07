@@ -57,10 +57,7 @@
 </table>
 
 <p align="center">
-  <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=haseeb-2010&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173400198%3Fv%3D4&v=recruiter-stats-1&mode=light" />
- <img src="https://www.gitskins.com/api/section/stats?username=haseeb-2010&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173400198%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Abdul Haseeb GitHub proof metrics" />
-</picture>
+  <img src="github_profile_overview.svg" width="100%" alt="Abdul Haseeb GitHub proof metrics" />
 </p>
 
 
